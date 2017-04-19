@@ -1,0 +1,92 @@
+
+.media-banner {
+  background-color: #FFF;
+  background-image: url("../images/media-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  padding: 90px 0;
+  position: relative;
+  text-align: left;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  background-position: center top 0px;
+}
+
+.banner-header{
+  text-align: center;
+}
+
+
+.belief{
+  background-image: url("../images/beliefs.jpg");
+  background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    text-align: center;
+}
+
+.belief a{
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+    display: inline-block;
+    padding: 30px 0px; 
+    width: 100%;
+}
+
+.belief a h6{
+  font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.belief a h2{
+  font-size: 2.6rem;
+    line-height: 2.8rem;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.belief:hover{
+   opacity: 0.9;
+}
+
+.fee{
+  background-image: url("../images/fee.jpg");
+  background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    text-align: center;
+
+}
+
+.fee a{
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+    display: inline-block;
+    padding: 30px 0px;    
+    width: 100%;
+}
+
+.fee a h6{
+  font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.fee a h2{
+  font-size: 2.6rem;
+    line-height: 2.8rem;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.fee:hover{
+   opacity: 0.9;
+}
+
