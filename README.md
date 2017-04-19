@@ -1,1 +1,1 @@
-# TraderInsights
+# Responsive website
